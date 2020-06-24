@@ -1,0 +1,10 @@
+Postman collection url
+
+https://www.getpostman.com/collections/70ad3c287bcf5946b877
+
+To Build -
+./gradlew clean build
+
+To Run -
+
+Run CtsApplication as run application

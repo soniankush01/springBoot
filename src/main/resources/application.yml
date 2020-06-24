@@ -1,0 +1,6 @@
+logging:
+  level:
+    com.excercise: 'INFO'
+
+cts:
+  numbarofDays: 7
